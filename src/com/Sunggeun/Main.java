@@ -9,8 +9,8 @@ public class Main {
     static final int PORT = 5568;
     private static AccountDAO accountInfoDAO = new AccountDAO();
     private static AccountDTO accountInfo = new AccountDTO();
-    private static String clientId = "6EofM8zzk_RjISr9KVwJ";//애플리케이션 클라이언트 아이디값";
-    private static String clientSecret = "hbjZWybbUO";//애플리케이션 클라이언트 시크릿값";
+    private static String clientId = "################";//애플리케이션 클라이언트 아이디값";
+    private static String clientSecret = "@@@@@@@@@@@@@@@@@";//애플리케이션 클라이언트 시크릿값";
 
     private static ArrayList<ChatModel> clients = new ArrayList<>();
 
