@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HelloWorldServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HelloWorldServer_jar</output-path>
+    <root id="archive" name="HelloWorldServer.jar">
+      <element id="module-output" name="HelloWorldServer" />
+      <element id="library" level="project" name="java" />
+      <element id="library" level="project" name="HelloWorld" />
+      <element id="extracted-dir" path="F:/sunggeun/다운로드/mysql-connector-java-8.0.13/mysql-connector-java-8.0.13/mysql-connector-java-8.0.13.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

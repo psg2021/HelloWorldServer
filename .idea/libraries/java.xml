@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/android/HelloWorld/app/src/main/java" />
+      <root url="file://C:/android/HelloWorld/app/src/main/java/konkuk/sunggeun/helloworld" />
+    </SOURCES>
+  </library>
+</component>
